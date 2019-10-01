@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+from casino.dice import roll
+
+if __name__ == "__main__":
+    print("Rolling the dice...")
+    roll()
+
